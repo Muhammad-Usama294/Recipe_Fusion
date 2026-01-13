@@ -68,7 +68,7 @@ The system implements a Graph-like structure for recipe relationships:
 
 ```
 Recipe_Fusion/
-├── Final Recipie Generator dev.cpp    # Main application source code
+├── Final Recipe Generator dev.cpp     # Main application source code
 ├── Admins.txt                         # Admin account information (binary)
 ├── Users.txt                          # User account information (binary)
 ├── Recipes.txt                        # Recipe database (text format)
@@ -79,7 +79,7 @@ Recipe_Fusion/
 
 ### Data Files Description
 
-- **`Final Recipie Generator dev.cpp`**: Main source code containing all classes and functions
+- **`Final Recipe Generator dev.cpp`**: Main source code containing all classes and functions
 - **`AdminsTransactions.txt`**: Logs all admin activities (recipe additions, deletions)
 - **`Recipes.txt`**: Stores recipe data including name, ingredients, and cooking steps
 - **`Ingredients.txt`**: Database of all ingredients with nutritional information
@@ -132,7 +132,7 @@ Recipe_Fusion/
 #### Using g++ (MinGW on Windows)
 
 ```bash
-g++ "Final Recipie Generator dev.cpp" -o RecipeFusion
+g++ "Final Recipe Generator dev.cpp" -o RecipeFusion
 ./RecipeFusion
 ```
 
@@ -140,7 +140,7 @@ g++ "Final Recipie Generator dev.cpp" -o RecipeFusion
 
 1. Open Visual Studio
 2. Create a new C++ Console Application project
-3. Add `Final Recipie Generator dev.cpp` to the project
+3. Add `Final Recipe Generator dev.cpp` to the project
 4. Build and run (F5)
 
 #### Using Code::Blocks
