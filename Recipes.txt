@@ -1,0 +1,192 @@
+16
+ma
+1
+Rice,kg
+1
+sdfasd
+Biryani
+1
+Chicken,2kg
+1
+asdfasd
+Test S
+4
+Rice,1kg
+Chicken,1kg
+Salt,1tbl
+Red Chilli,10g
+1
+steeeeeeeeeeep
+Testing
+3
+Rice,2kg
+Chicken,2kg
+Salt,1tblsp
+1
+testing step
+Biryani
+2
+Rice,1kg
+Chicken,1kg
+1
+cook and serve
+ed
+3
+Chicken,500g chopped
+Rice,1kg
+Tomatoes,500g
+1
+do as instructed
+Test Final
+1
+Rice,1kg
+1
+step 1
+Test Multiple
+5
+Rice,5og
+Chicken,1kg
+Salt,10g
+Onions,1kg
+Tomatoes  ø,100g
+3
+cook
+cook more
+serve
+Gajar Halwa
+1
+Carrot,500g
+1
+steeeeeeeeeeep
+Chicken Biryani
+9
+Chicken,500g pieces
+Basmati Rice,2 cups, soaked
+Yogurt,1/2 cup
+Onions,2 , thinly sliced
+Tomatoes,2, chopped
+Garlic,4 cloves, minced
+Ginger,1 inch, grated
+Salt,to taste
+Ghee,for cooking
+7
+Heat ghee/oil in a pan, add sliced onions and fry until golden brown. Remove half of the fried onions and set aside for garnish.
+Add garlic, ginger, green chilies, and tomatoes to the pan. Cook until tomatoes are soft.
+Add chicken pieces, biryani masala, red chili powder, turmeric powder, salt, and yogurt. Cook until chicken is tender.
+In a separate pot, bring water to boil. Add soaked rice and cook until 70% done. Drain excess water.
+Layer half of the rice in a deep pan, then add the cooked chicken mixture, fried onions, mint leaves, and coriander leaves. Top with the remaining rice.
+Cover and cook on low heat for 15-20 minutes until the rice is fully cooked and aromatic.
+Serve hot with raita or salad.
+New
+1
+Rice,1kg
+1
+this is step 1
+Chicken Karahi
+14
+chicken, 500g, pieces
+Tomatoes, 3, chopped
+Onions, 2, thinly sliced
+Garlic, 4 cloves, minced
+Ginger, 1-inch, grated
+Green Chilies, 2, chopped
+Cumin Seeds, 1 teaspoon 
+Coriander Powder, 1 teaspoon 
+Turmeric Powder, 1/2 teaspoon 
+Red Chili, 1/2 teaspoon 
+Garam Masala, 1/2 teaspoon 
+Salt, to taste
+Coriander Leaves, for garnish
+Ghee, for cooking
+6
+Heat ghee/oil in a karahi or deep pan, add cumin seeds and let them crackle.
+Add sliced onions and cook until golden brown.
+Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.
+Add chopped tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until tomatoes are soft.
+Add chicken pieces and cook until meat is tender and the masala is well-coated.
+Sprinkle garam masala and garnish with fresh coriander leaves before serving.
+Palak Paneer
+13
+Paneer, 200g, Cubed
+Spinach, 2 Bunches, Chopped
+Onion, 1, Finely Chopped
+Tomatoes, 2, Pureed
+Green Chilies, 2, Chopped
+Ginger, 1-Inch, Grated
+Garlic, 4 Cloves, Minced
+Cumin Seeds, 1 Teaspoon 
+Garam Masala, 1 Teaspoon 
+Turmeric Powder, 1/2 Teaspoon 
+Cream, 1/2 Cup 
+Salt, To Taste
+Ghee, For Cooking
+7
+Heat ghee/oil in a pan, add cumin seeds and let them splutter.
+Add chopped onions and sauté until golden brown.
+Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.
+Add tomato puree, turmeric powder, and salt. Cook until oil separates.
+Add chopped spinach and cook until wilted.
+Stir in cream and paneer cubes. Simmer for 5 minutes.
+Sprinkle garam masala before serving.
+Gajar Ka Halwa
+7
+Carrots, 1, Kg, Grated
+Milk, 1 Liter 
+Sugar, 1 Cup 
+Ghee, 1/2 Cup (Clarified Butter)
+Nuts, (Almonds, Cashews, Pistachios)1/4 Cup Chopped 
+Cardamom Powder, 1/4 Teaspoon 
+Saffron Strands, (Optional)
+5
+In a heavy-bottomed pan, heat ghee and add grated carrots. Cook until carrots turn soft.
+Add milk and cook on low heat until the milk evaporates and the mixture thickens.
+Add sugar, cardamom powder, and saffron strands. Mix well and cook until the sugar dissolves.
+Stir in chopped nuts and cook for another 5 minutes.
+Garnish with more nuts before serving.
+Daal Chawal
+13
+Lentils, 1 Cup Washed
+Onions, 1, Finely Chopped
+Tomatoes, 2, Chopped
+Garlic, 4 Cloves, Minced
+Ginger, 1-Inch, Grated
+Green Chilies, 2, Chopped
+Cumin Seeds, 1 Teaspoon 
+Turmeric Powder, 1 Teaspoon 
+Red Chili, 1/2 Teaspoon 
+Salt, To Taste
+Coriander Leaves, For Garnish
+Rice, Cooked For Serving
+Ghee, For Cooking
+7
+Boil lentils in water until soft and mushy. Set aside.
+Heat ghee/oil in a pan, add cumin seeds and let them crackle.
+Add chopped onions and cook until golden brown.
+Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.
+Add chopped tomatoes, turmeric powder, red chili powder, and salt. Cook until tomatoes are soft and the mixture thickens.
+Add boiled lentils to the tomato mixture and simmer for 5 minutes.
+Garnish with fresh coriander leaves and serve hot with cooked rice.
+Karahi Gosht
+14
+Lamb Meat, 500g, Cut Into Pieces
+Tomatoes, 3, Chopped
+Onions, 2, Thinly Sliced
+Garlic, 4 cloves, Minced
+Ginger, 1 inch, Grated
+Green Chilies, 2, Chopped
+Cumin Seeds, 1 Teaspoon 
+Coriander Powder, 1 Teaspoon 
+Turmeric Powder, 1/2 Teaspoon 
+Red Chili, 1/2 Teaspoon 
+Garam Masala, 1/2 Teaspoon 
+Salt, To Taste
+Coriander Leaves, For Garnish
+Ghee, For Cooking
+6
+Heat ghee/oil in a karahi or deep pan, add cumin seeds and let them crackle.
+Add sliced onions and cook until golden brown.
+Add minced garlic, grated ginger, and chopped green chilies. Sauté for a minute.
+Add chopped tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until tomatoes are soft.
+Add lamb pieces and cook until meat is tender and the masala is well-coated.
+Sprinkle garam masala and garnish with fresh coriander leaves before serving.
+
